@@ -1,0 +1,38 @@
+در صورت نداشتن امکان دانلود از خارج از محیط تلگرم، می تونید فایل ها رو از کانالی که خودم ایجاد کردم دانلود کنید. اینجا کلیک کنید
+
+در صورت تغییر سرورها، در کانال Aleph Persian تغییر رو اعلام می کنم، می تونید عضو کانال بشید.
+
+سرور VLESS:
+
+
+vless://768e619d-e233-4817-865b-452387d7f6b6@5.75.158.87:8880?type=ws&security=none&path=/#VLESS-Telegram_t.me/therealaleph
+
+سرور VMESS:
+
+
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVk1FU1MtVGVsZWdyYW1fdC5tZS90aGVyZWFsYWxlcGgiLCAiYWRkIjogIjUuNzUuMTU4Ljg3IiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiNTkyZjdlMGUtZWQxYi00ZTQ2LWE2ZTMtNGMxOWIxMDVjNzBlIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAibm9uZSJ9
+
+لینک سابسکریپشن:
+
+https://sub.thatfreeservicewhicheveryoneuse.uk/
+یا
+
+https://raw.githubusercontent.com/therealaleph/personal-codes/main/sub
+
+سرور SoftEther:
+Ip: 5.75.140.185
+hub: Hub
+Port: 443
+username: aleph
+password: aleph
+
+Trojan:
+trojan://fc417d14-f39a-47b7-9e91-ed79825315b3@z6.gozargah.one:443?peer=z6.gozargah.one&sni=z6.gozargah.one&alpn=http/1.1#z6.gozargah.one_Trojan
+
+
+Trojan Server 2:
+trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@z9.gozargah.one:443?sni=z9.gozargah.one&security=tls&type=tcp#aleph_trojan2
+
+
+Cloak (SS):
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphbGVwaA==@therealaleph-on-telegram.gozargah.uk:443?plugin=ck-client%3BUID%3DZofE%2BUx93TBbKPMGVXmqag%5C%3D%5C%3D%3BPublicKey%3DL%2FTYH%2FSkAC0l8l3WtFdEgAh8KpDMjleoGu4ZnEjzUUU%5C%3D%3BServerName%3Dbing.com%3BBrowserSig%3Dchrome%3BNumConn%3D4%3BProxyMethod%3Dshadowsocks%3BEncryptionMethod%3Dplain%3BStreamTimeout%3D300
